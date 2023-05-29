@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.1.4.6:1", "", "14. SD - Mengelola Daftar Layanan Kesehatan", "EARoot/EA1/EA4/EA6/EA1605.html", "185.png", "170", "0", "", "Sequence diagram0","{00483982-68CE-48f4-8A25-CF06BFA1F5F2}");
+tocTab[tocTab.length] = new Array("0.1.4.6:2", "", "Admin", "EARoot/EA1/EA4/EA6/EA1608.html", "6.png", "E2201", "0", "", "Actor0","{4FB6866A-407E-4a3b-89ED-AE22807F91CC}");
+tocTab[tocTab.length] = new Array("0.1.4.6:3", "", "«entity» LayananKesehatan", "EARoot/EA1/EA4/EA6/EA1609.html", "8C9E6706-8_entity.png", "E2204", "0", "", "Sequence0","{E2FF918F-A1FF-4965-ADA8-D08F8FC25CC7}");
+tocTab[tocTab.length] = new Array("0.1.4.6:4", "", "«control» ManajerKelolaLayananKesehatan", "EARoot/EA1/EA4/EA6/EA1610.html", "8C9E6706-8_control.png", "E2205", "0", "", "Sequence0","{278E4B0D-A122-4b1b-87B1-20706AE88591}");
+tocTab[tocTab.length] = new Array("0.1.4.6:5", "", "«control» ManajerLayananKesehatan", "EARoot/EA1/EA4/EA6/EA1611.html", "8C9E6706-8_control.png", "E2236", "0", "", "Sequence0","{A8DD0D9D-14DD-46c4-909D-2F65BF9458D4}");
+tocTab[tocTab.length] = new Array("0.1.4.6:6", "", "«boundary» MenuKelolaLayananKesehatan", "EARoot/EA1/EA4/EA6/EA1612.html", "8C9E6706-8_boundary.png", "E2203", "0", "", "Sequence0","{9D17E0AF-CF0C-4ea5-9F20-20EA59B844AB}");
+tocTab[tocTab.length] = new Array("0.1.4.6:7", "", "«boundary» MenuUtama", "EARoot/EA1/EA4/EA6/EA1613.html", "8C9E6706-8_boundary.png", "E2202", "0", "", "Sequence0","{0E778EB4-588A-469a-9AB4-6741AD80E125}");
+tocTab[tocTab.length] = new Array("0.1.4.6:8", "", "Pilihan?", "EARoot/EA1/EA4/EA6/EA1614.html", "101.png", "E2209", "0", "", "InteractionFragment0","{3B4E97FC-1157-4589-8825-1FAB25D21D9F}");

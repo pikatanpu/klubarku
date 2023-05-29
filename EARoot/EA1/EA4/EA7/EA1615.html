@@ -1,0 +1,156 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>15. SD - Mengelola Daftar Pengajian</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> 15. SD - Mengelola Daftar Pengajian </h1>
+			<!-- <img class="header_image" src="../../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../../../index.html">Model</a> / <a href="../../EA1.html">KBR One</a> / <a href="../EA1536.html">4. Sequence Diagram</a> / <a href="EA1617.html">15. SD - Mengelola Daftar Pengajian</a> / <a href="EA1615.html">15. SD - Mengelola Daftar Pengajian</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../../images/185.png" alt="Diagram"/> <a href="EA1615.html">15. SD - Mengelola Daftar Pengajian</a></li>
+<li><img src="../../../../images/6.png" alt="Actor"/> <a href="EA1618.html">Admin</a></li>
+<li><img src="../../../../images/57.png" alt="Sequence"/> <a href="EA1619.html">ManajerKategoriPengajian</a></li>
+<li><img src="../../../../images/57.png" alt="Sequence"/> <a href="EA1620.html">ManajerKelolaPengajian</a></li>
+<li><img src="../../../../images/57.png" alt="Sequence"/> <a href="EA1621.html">MenuKelolaPengajianTerpilih</a></li>
+<li><img src="../../../../images/57.png" alt="Sequence"/> <a href="EA1622.html">MenuPengajian</a></li>
+<li><img src="../../../../images/57.png" alt="Sequence"/> <a href="EA1623.html">MenuUtama</a></li>
+<li><img src="../../../../images/57.png" alt="Sequence"/> <a href="EA1624.html">Pengajian</a></li>
+<li><img src="../../../../images/101.png" alt="InteractionFragment"/> <a href="EA1625.html">Pilihan?</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA1616.png" usemap="#EA1616" border="0" />
+
+<MAP NAME="EA1616">
+<area shape="rect" coords="437,10,487,1050" href="EA1619.html" target="_self">
+<area shape="rect" coords="843,10,893,1050" href="EA1620.html" target="_self">
+<area shape="rect" coords="691,10,741,1050" href="EA1621.html" target="_self">
+<area shape="rect" coords="565,10,615,1050" href="EA1624.html" target="_self">
+<area shape="rect" coords="311,10,361,1050" href="EA1622.html" target="_self">
+<area shape="rect" coords="184,10,234,1050" href="EA1623.html" target="_self">
+<area shape="rect" coords="43,10,132,1050" href="EA1618.html" target="_self">
+<area shape="rect" coords="10,319,890,1045" href="EA1625.html" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">15. SD - Mengelola Daftar Pengajian : Interaction diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">10/7/2022 1:04:56 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">10/8/2022 11:38:24 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">murqdan</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{3D131A4C-D21D-47f2-9F40-A3A24C5AB263}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

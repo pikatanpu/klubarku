@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.1.4.3:1", "", "11. SD - Mengelola Daftar Kegiatan Bulan Ramadhan", "EARoot/EA1/EA4/EA3/EA1572.html", "185.png", "166", "0", "", "Sequence diagram0","{745B3375-7957-4b28-8E7A-C302BAF7F042}");
+tocTab[tocTab.length] = new Array("0.1.4.3:2", "", "Admin", "EARoot/EA1/EA4/EA3/EA1575.html", "6.png", "E2131", "0", "", "Actor0","{5828169A-ECE0-4a77-91D7-13653B85D05A}");
+tocTab[tocTab.length] = new Array("0.1.4.3:3", "", "«entity» KegiatanRamadhan", "EARoot/EA1/EA4/EA3/EA1576.html", "8C9E6706-8_entity.png", "E2135", "0", "", "Sequence0","{AA461CD1-8F50-4e7e-BA31-4DA51F6EF20F}");
+tocTab[tocTab.length] = new Array("0.1.4.3:4", "", "«control» ManajerDaftarRamadhan", "EARoot/EA1/EA4/EA3/EA1577.html", "8C9E6706-8_control.png", "E2134", "0", "", "Sequence0","{50B2CE0D-E7F9-4f51-A972-7A78BDFE008F}");
+tocTab[tocTab.length] = new Array("0.1.4.3:5", "", "«boundary» ManajerKelolaRamadhanTerpilih", "EARoot/EA1/EA4/EA3/EA1578.html", "8C9E6706-8_boundary.png", "E2138", "0", "", "Sequence0","{E788F517-BDDF-412b-AC27-506E332880DF}");
+tocTab[tocTab.length] = new Array("0.1.4.3:6", "", "«control» ManajerKelolaRamadhanTerpilih", "EARoot/EA1/EA4/EA3/EA1579.html", "8C9E6706-8_control.png", "E2139", "0", "", "Sequence0","{C06C7991-4EDC-4124-B35C-CF9577D8240B}");
+tocTab[tocTab.length] = new Array("0.1.4.3:7", "", "«boundary» MenuKegiatanRamadhan", "EARoot/EA1/EA4/EA3/EA1580.html", "8C9E6706-8_boundary.png", "E2133", "0", "", "Sequence0","{B07A3215-55AE-4b02-BDDF-ACD3C4C6CD36}");
+tocTab[tocTab.length] = new Array("0.1.4.3:8", "", "«boundary» MenuKelolaRamadhanTerpilih", "EARoot/EA1/EA4/EA3/EA1581.html", "8C9E6706-8_boundary.png", "E2136", "0", "", "Sequence0","{9A162E21-E844-499a-BE0C-7021C1849C2D}");
+tocTab[tocTab.length] = new Array("0.1.4.3:9", "", "«boundary» MenuUtama", "EARoot/EA1/EA4/EA3/EA1582.html", "8C9E6706-8_boundary.png", "E2132", "0", "", "Sequence0","{34EBDEF1-7826-43e8-9418-A9EFB70A66F8}");
+tocTab[tocTab.length] = new Array("0.1.4.3:10", "", "Pilihan?", "EARoot/EA1/EA4/EA3/EA1583.html", "101.png", "E2137", "0", "", "InteractionFragment0","{30E251A8-42B0-4b1e-B59D-15279FD248BA}");

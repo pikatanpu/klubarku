@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.1.2.1.17:1", "", "7. AD - Melihat Daftar Kegiatan Kerja Bakti", "EARoot/EA1/EA2/EA1/EA17/EA378.html", "181.png", "73", "0", "", "Activity diagram0","{7CF86F89-2B47-416b-A3A4-D78C92C4E0A3}");
+tocTab[tocTab.length] = new Array("0.1.2.1.17:2", "", ":Warga Dusun", "EARoot/EA1/EA2/EA1/EA17/EA381.html", "116.png", "E922", "0", "", "ActivityPartition0","{B0B30018-950B-419b-8CA9-160A24DB3D05}");
+tocTab[tocTab.length] = new Array("0.1.2.1.17:3", "", "KlubarKu", "EARoot/EA1/EA2/EA1/EA17/EA382.html", "116.png", "E921", "0", "", "ActivityPartition0","{578EA514-44EC-41d9-A5EE-AB05D0561ABA}");
+tocTab[tocTab.length] = new Array("0.1.2.1.17:4", "", "Menampilkan Menu Daftar Kegiatan Kerja Bakti", "EARoot/EA1/EA2/EA1/EA17/EA383.html", "104.png", "E926", "E921", "", "Action0","{A54FE5D3-9A86-4ea6-B7FD-6C6C95DEEC3F}");
+tocTab[tocTab.length] = new Array("0.1.2.1.17:5", "", "Menampilkan Menu Kegiatan Ramadhan Yang Dipilih", "EARoot/EA1/EA2/EA1/EA17/EA384.html", "104.png", "E928", "E921", "", "Action0","{AD9ABE61-D1DB-4154-9BCF-780B3098F45E}");
+tocTab[tocTab.length] = new Array("0.1.2.1.17:6", "", "", "EARoot/EA1/EA2/EA1/EA17/EA385.html", "68.png", "E923", "E922", "", "StateNode0","{9BABB26F-1863-412f-B005-18CA25B1A380}");
+tocTab[tocTab.length] = new Array("0.1.2.1.17:7", "", "", "EARoot/EA1/EA2/EA1/EA17/EA386.html", "69.png", "E929", "E922", "", "StateNode0","{053C0BF0-D25D-4b83-BB4D-5643E01D9FA1}");
+tocTab[tocTab.length] = new Array("0.1.2.1.17:8", "", "Melihat Daftar Kegiatan Kerja Bakti", "EARoot/EA1/EA2/EA1/EA17/EA387.html", "104.png", "E925", "E922", "", "Action0","{C80566EA-5BA1-4495-862C-E93B5AA691D5}");
+tocTab[tocTab.length] = new Array("0.1.2.1.17:9", "", "Melihat Kegiatan Ramadhan Yang Dipilih", "EARoot/EA1/EA2/EA1/EA17/EA388.html", "104.png", "E930", "E922", "", "Action0","{65AC7B51-5356-481a-93F1-5D39B76BC466}");
+tocTab[tocTab.length] = new Array("0.1.2.1.17:10", "", "Memilih Kegiatan Kerja Bakti di Menu Utama", "EARoot/EA1/EA2/EA1/EA17/EA389.html", "104.png", "E924", "E922", "", "Action0","{F3556336-CEA9-4e2f-876F-59449F6F9DE6}");
+tocTab[tocTab.length] = new Array("0.1.2.1.17:11", "", "Memilih Kegiatan Ramadhan", "EARoot/EA1/EA2/EA1/EA17/EA390.html", "104.png", "E927", "E922", "", "Action0","{8F33723C-B5D2-4a1f-A5B0-2057A1159B79}");

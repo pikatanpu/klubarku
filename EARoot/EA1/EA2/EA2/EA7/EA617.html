@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>15. BPMN - Mengelola Daftar Pengajian</title>
+<link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> 15. BPMN - Mengelola Daftar Pengajian </h1>
+			<!-- <img class="header_image" src="../../../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../../../../index.html">Model</a> / <a href="../../../EA1.html">KBR One</a> / <a href="../../EA125.html">2. Activity or BPMN</a> / <a href="../EA415.html">BPMN</a> / <a href="EA619.html">15. BPMN - Mengelola Daftar Pengajian</a> / <a href="EA617.html">15. BPMN - Mengelola Daftar Pengajian</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../../../images/189.png" alt="Diagram"/> <a href="EA617.html">15. BPMN - Mengelola Daftar Pengajian</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA621.html">:Admin</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA620.html">15. Mengelola Daftar Pengajian</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA622.html">KlubarKu</a></li>
+<li><img src="../../../../../images/56.png" alt="Decision"/> <a href="EA623.html">Konfirmasi?</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA624.html">SisforgaD</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA625.html">SisforgaD</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA626.html">SisforgaD</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA627.html">SisforgaD</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA628.html">SisforgaD</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA629.html">User Interface Design</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA618.png" usemap="#EA618" border="0" />
+
+<MAP NAME="EA618">
+<area shape="rect" coords="1231,271,1342,335" href="EA634.html" target="_self">
+<area shape="rect" coords="1266,553,1306,594" href="EA623.html" target="_self">
+<area shape="rect" coords="1053,270,1164,334" href="EA631.html" target="_self">
+<area shape="rect" coords="910,270,1021,334" href="EA633.html" target="_self">
+<area shape="rect" coords="908,440,1019,504" href="EA637.html" target="_self">
+<area shape="rect" coords="771,270,882,334" href="EA632.html" target="_self">
+<area shape="rect" coords="770,440,881,504" href="EA641.html" target="_self">
+<area shape="rect" coords="632,271,743,335" href="EA645.html" target="_self">
+<area shape="rect" coords="632,440,743,504" href="EA642.html" target="_self">
+<area shape="rect" coords="671,553,711,594" href="EA646.html" target="_self">
+<area shape="rect" coords="544,35,714,150" href="../../../EA3/EA7/EA1189.html" target="_self">
+<area shape="rect" coords="336,35,506,150" href="../../../EA3/EA7/EA1185.html" target="_self">
+<area shape="rect" coords="131,36,301,151" href="../../../EA3/EA7/EA1187.html" target="_self">
+<area shape="rect" coords="160,267,271,331" href="EA643.html" target="_self">
+<area shape="rect" coords="461,267,572,331" href="EA644.html" target="_self">
+<area shape="rect" coords="1421,290,1450,319" href="EA630.html" target="_self">
+<area shape="rect" coords="462,437,573,501" href="EA638.html" target="_self">
+<area shape="rect" coords="308,437,419,501" href="EA636.html" target="_self">
+<area shape="rect" coords="161,437,272,501" href="EA639.html" target="_self">
+<area shape="rect" coords="105,454,135,484" href="EA635.html" target="_self">
+<area shape="rect" coords="11,10,1451,175" href="EA629.html" target="_self">
+<area shape="rect" coords="10,211,765,673" href="EA620.html" target="_self">
+<area shape="rect" coords="31,376,1451,673" href="EA621.html" target="_self">
+<area shape="rect" coords="31,211,1451,376" href="EA622.html" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">15. BPMN - Mengelola Daftar Pengajian : Analysis diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">10/2/2022 2:54:57 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">5/28/2023 8:21:47 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">murqdan</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{8A59C7CD-4414-4535-83D8-BE9407139D91}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>11. BPMN - Mengelola Daftar Kegiatan Bulan Ramadhan</title>
+<link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> 11. BPMN - Mengelola Daftar Kegiatan Bulan Ramadhan </h1>
+			<!-- <img class="header_image" src="../../../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../../../../index.html">Model</a> / <a href="../../../EA1.html">KBR One</a> / <a href="../../EA125.html">2. Activity or BPMN</a> / <a href="../EA415.html">BPMN</a> / <a href="EA496.html">11. BPMN - Mengelola Daftar Kegiatan Bulan Ramadhan</a> / <a href="EA494.html">11. BPMN - Mengelola Daftar Kegiatan Bulan Ramadhan</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../../../images/189.png" alt="Diagram"/> <a href="EA494.html">11. BPMN - Mengelola Daftar Kegiatan Bulan Ramadhan</a></li>
+<li><img src="../../../../../images/69.png" alt="StateNode"/> <a href="EA497.html"></a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA498.html">11. Mengelola Daftar Kegiatan Bulan Ramadhan</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA499.html">KlubarKu</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA500.html">SisforgaD</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA501.html">SisforgaD</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA502.html">User Interface Design</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA495.png" usemap="#EA495" border="0" />
+
+<MAP NAME="EA495">
+<area shape="rect" coords="1170,261,1281,325" href="EA520.html" target="_self">
+<area shape="rect" coords="1202,549,1242,590" href="EA504.html" target="_self">
+<area shape="rect" coords="997,261,1108,325" href="EA514.html" target="_self">
+<area shape="rect" coords="854,261,965,325" href="EA519.html" target="_self">
+<area shape="rect" coords="853,434,964,498" href="EA507.html" target="_self">
+<area shape="rect" coords="715,261,826,325" href="EA515.html" target="_self">
+<area shape="rect" coords="715,434,826,498" href="EA511.html" target="_self">
+<area shape="rect" coords="576,262,687,326" href="EA518.html" target="_self">
+<area shape="rect" coords="577,434,688,498" href="EA506.html" target="_self">
+<area shape="rect" coords="607,549,647,590" href="EA512.html" target="_self">
+<area shape="rect" coords="511,38,681,153" href="../../../EA3/EA3/EA1014.html" target="_self">
+<area shape="rect" coords="299,38,469,153" href="../../../EA3/EA3/EA1012.html" target="_self">
+<area shape="rect" coords="93,38,263,153" href="../../../EA3/EA3/EA1010.html" target="_self">
+<area shape="rect" coords="421,432,532,496" href="EA508.html" target="_self">
+<area shape="rect" coords="1347,283,1376,312" href="EA497.html" target="_self">
+<area shape="rect" coords="269,432,380,496" href="EA505.html" target="_self">
+<area shape="rect" coords="122,432,233,496" href="EA509.html" target="_self">
+<area shape="rect" coords="66,449,96,479" href="EA503.html" target="_self">
+<area shape="rect" coords="121,261,232,325" href="EA516.html" target="_self">
+<area shape="rect" coords="418,261,529,325" href="EA517.html" target="_self">
+<area shape="rect" coords="10,10,1385,175" href="EA502.html" target="_self">
+<area shape="rect" coords="30,374,1385,659" href="EA513.html" target="_self">
+<area shape="rect" coords="10,209,1385,659" href="EA498.html" target="_self">
+<area shape="rect" coords="29,209,841,374" href="EA499.html" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">11. BPMN - Mengelola Daftar Kegiatan Bulan Ramadhan : Analysis diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">9/30/2022 6:29:46 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">5/28/2023 8:21:56 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">murqdan</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{C17D657A-C0B6-4d4f-B15A-E9D6C2028833}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

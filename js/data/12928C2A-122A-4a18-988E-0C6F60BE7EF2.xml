@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.1.2.1.16:1", "", "6. AD - Mendaftar Lomba 17 Agustus", "EARoot/EA1/EA2/EA1/EA16/EA361.html", "181.png", "77", "0", "", "Activity diagram0","{00D94EAF-0015-43e8-BA59-79FAAFD6F880}");
+tocTab[tocTab.length] = new Array("0.1.2.1.16:2", "", ":Warga Dusun", "EARoot/EA1/EA2/EA1/EA16/EA364.html", "116.png", "E961", "0", "", "ActivityPartition0","{142F309B-68BB-4cef-B5E5-6B5031D9E5A4}");
+tocTab[tocTab.length] = new Array("0.1.2.1.16:3", "", "KlubarKu", "EARoot/EA1/EA2/EA1/EA16/EA365.html", "116.png", "E960", "0", "", "ActivityPartition0","{56294AF5-D4E6-41cb-BDC2-9BFF7FEB818C}");
+tocTab[tocTab.length] = new Array("0.1.2.1.16:4", "", "", "EARoot/EA1/EA2/EA1/EA16/EA366.html", "69.png", "E973", "0", "", "StateNode0","{C92A0DE9-A096-44b3-8692-48DEFAB1324B}");
+tocTab[tocTab.length] = new Array("0.1.2.1.16:5", "", "Menampilkan Menu Daftar Lomba 17 Agustus", "EARoot/EA1/EA2/EA1/EA16/EA367.html", "104.png", "E965", "E960", "", "Action0","{97FD4979-3ACC-4ac5-8D3B-109A459ABC64}");
+tocTab[tocTab.length] = new Array("0.1.2.1.16:6", "", "Menampilkan Menu Lomba 17 Agustus Berdasarkan Kategori Yang Dipilih", "EARoot/EA1/EA2/EA1/EA16/EA368.html", "104.png", "E967", "E960", "", "Action0","{EE13D217-8822-444f-B08B-AFF25FD3AB1E}");
+tocTab[tocTab.length] = new Array("0.1.2.1.16:7", "", "Menampilkan Pesan Berhasil Mendaftar", "EARoot/EA1/EA2/EA1/EA16/EA369.html", "104.png", "E970", "E960", "", "Action0","{B1FF0972-5E03-48fe-97E0-B9C947D3D3E7}");
+tocTab[tocTab.length] = new Array("0.1.2.1.16:8", "", "Menampilkan Pesan Gagal Mendaftar", "EARoot/EA1/EA2/EA1/EA16/EA370.html", "104.png", "E972", "E960", "", "Action0","{1B1977EB-E48E-4c6a-8217-E6B2B124A7FB}");
+tocTab[tocTab.length] = new Array("0.1.2.1.16:9", "", "Umur", "EARoot/EA1/EA2/EA1/EA16/EA371.html", "56.png", "E971", "E960", "", "Decision0","{0F530828-E5C9-4975-8D35-AFCE95295A2E}");
+tocTab[tocTab.length] = new Array("0.1.2.1.16:10", "", "", "EARoot/EA1/EA2/EA1/EA16/EA372.html", "68.png", "E962", "E961", "", "StateNode0","{B56E9173-CF25-4ed2-8BF3-AAD864AABEF7}");
+tocTab[tocTab.length] = new Array("0.1.2.1.16:11", "", "Melihat Daftar Kategori Lomba 17 Agustus", "EARoot/EA1/EA2/EA1/EA16/EA373.html", "104.png", "E964", "E961", "", "Action0","{D4FC6FAD-6FA2-4887-A8E3-7E3675404756}");
+tocTab[tocTab.length] = new Array("0.1.2.1.16:12", "", "Melihat Jadwal, Daftar Peserta Terdaftar, Bagan Pertandingan Lomba", "EARoot/EA1/EA2/EA1/EA16/EA374.html", "104.png", "E968", "E961", "", "Action0","{EF0942AC-F5DE-46d8-9E80-3C9DDCD626D6}");
+tocTab[tocTab.length] = new Array("0.1.2.1.16:13", "", "Memilih Kategori Lomba 17 Agustus", "EARoot/EA1/EA2/EA1/EA16/EA375.html", "104.png", "E966", "E961", "", "Action0","{C10058B6-3B37-471e-A31D-E05E7E5F15CC}");
+tocTab[tocTab.length] = new Array("0.1.2.1.16:14", "", "Memilih Lomba 17 Agustus di Menu Utama", "EARoot/EA1/EA2/EA1/EA16/EA376.html", "104.png", "E963", "E961", "", "Action0","{CA5F000D-BB95-4838-8029-028CFF9A4F3A}");
+tocTab[tocTab.length] = new Array("0.1.2.1.16:15", "", "Mendaftar Lomba", "EARoot/EA1/EA2/EA1/EA16/EA377.html", "104.png", "E969", "E961", "", "Action0","{D0288E1C-0C10-4b87-A47D-D0C83E1F7B41}");

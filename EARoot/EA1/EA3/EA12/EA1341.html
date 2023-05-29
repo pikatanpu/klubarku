@@ -1,0 +1,185 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>4. UID - Memilih Kegiatan di Menu Utama</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> 4. UID - Memilih Kegiatan di Menu Utama </h1>
+			<!-- <img class="header_image" src="../../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../../../index.html">Model</a> / <a href="../../EA1.html">KBR One</a> / <a href="../EA947.html">3. User Interface Design</a> / <a href="EA1343.html">4. UID - Melihat Daftar Kegiatan Bulan Ramadhan</a> / <a href="EA1341.html">4. UID - Memilih Kegiatan di Menu Utama</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../../images/188.png" alt="Diagram"/> <a href="EA1337.html">4. UID - Melihat Daftar Kegiatan Ramadhan</a></li>
+<li><img src="../../../../images/188.png" alt="Diagram"/> <a href="EA1339.html">4. UID - Melihat Kegiatan Ramadhan Terpilih</a></li>
+<li><img src="../../../../images/188.png" alt="Diagram"/> <a href="EA1341.html">4. UID - Memilih Kegiatan di Menu Utama</a></li>
+<li><img src="../../../../images/5.png" alt="Class"/> <a href="EA1371.html">StandardChart1</a></li>
+<li><img src="../../../../images/25.png" alt="Object"/> <a href="EA1365.html">Object1</a></li>
+<li><img src="../../../../images/11.png" alt="Screen"/> <a href="EA1373.html">Android Verison</a></li>
+<li><img src="../../../../images/11.png" alt="Screen"/> <a href="EA1374.html">Android Verison</a></li>
+<li><img src="../../../../images/11.png" alt="Screen"/> <a href="EA1375.html">Android Verison</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1346.html">Button1</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1347.html">Button1</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1348.html">Button2</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1349.html">Checkbox1</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1350.html">Checkbox1</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1351.html">Checkbox2</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1352.html">Combobox1</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1353.html">fsa</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1354.html">fsa</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1355.html">Hline1</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1356.html">Hline2</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1357.html">Hline2</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1358.html">Jenis Kelamin:</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1359.html">Jenis Kelamin:</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1360.html">Kegiatan Ramadhan</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1361.html">Label1</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1362.html">Lcheckbox1</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1363.html">List1</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1364.html">List2</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1366.html">Radio1</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1367.html">RadioButton2</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1368.html">RadioButton2</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1369.html">Spinner1</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1370.html">Spinner1</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1376.html">Username : murqdan</a></li>
+<li><img src="../../../../images/16.png" alt="GUIElement"/> <a href="EA1372.html">Vline1</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA1342.png" usemap="#EA1342" border="0" />
+
+<MAP NAME="EA1342">
+<area shape="rect" coords="140,323,230,343" href="EA1380.html" target="_self">
+<area shape="rect" coords="42,323,132,343" href="EA1391.html" target="_self">
+<area shape="rect" coords="140,293,230,313" href="EA1389.html" target="_self">
+<area shape="rect" coords="140,261,230,281" href="EA1388.html" target="_self">
+<area shape="rect" coords="140,228,230,248" href="EA1385.html" target="_self">
+<area shape="rect" coords="42,293,132,313" href="EA1384.html" target="_self">
+<area shape="rect" coords="42,261,132,281" href="EA1386.html" target="_self">
+<area shape="rect" coords="42,228,132,248" href="EA1382.html" target="_self">
+<area shape="rect" coords="35,201,175,222" href="EA1379.html" target="_self">
+<area shape="rect" coords="42,128,230,188" href="EA1392.html" target="_self">
+<area shape="rect" coords="37,90,210,116" href="EA1378.html" target="_self">
+<area shape="rect" coords="10,10,266,496" href="EA1373.html" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">4. UID - Memilih Kegiatan di Menu Utama : User Interface diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">9/29/2022 1:11:35 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">5/28/2023 8:31:27 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">murqdan</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{BDF31CEF-E555-41cb-BA69-0F1EB21550D4}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

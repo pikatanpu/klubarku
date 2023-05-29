@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.1.4.5:1", "", "13. SD - Mengelola Daftar Kegiatan Kerja Bakti", "EARoot/EA1/EA4/EA5/EA1595.html", "185.png", "168", "0", "", "Sequence diagram0","{3AFB8927-C64E-4e24-956B-DA8B6F1AEFFB}");
+tocTab[tocTab.length] = new Array("0.1.4.5:2", "", "Admin", "EARoot/EA1/EA4/EA5/EA1598.html", "6.png", "E2152", "0", "", "Actor0","{88AD85FA-EE59-462c-8C4F-02DC6783C51F}");
+tocTab[tocTab.length] = new Array("0.1.4.5:3", "", "«entity» KerjaBakti", "EARoot/EA1/EA4/EA5/EA1599.html", "8C9E6706-8_entity.png", "E2155", "0", "", "Sequence0","{5E0513B6-C28E-4887-9511-D335F91FA19D}");
+tocTab[tocTab.length] = new Array("0.1.4.5:4", "", "«control» ManajerKelolaKerjaBakti", "EARoot/EA1/EA4/EA5/EA1600.html", "8C9E6706-8_control.png", "E2157", "0", "", "Sequence0","{BC19BBF8-C30C-42c7-BD89-37A40D49E668}");
+tocTab[tocTab.length] = new Array("0.1.4.5:5", "", "«control» ManajerKerjaBakti", "EARoot/EA1/EA4/EA5/EA1601.html", "8C9E6706-8_control.png", "E2234", "0", "", "Sequence0","{66CF98D0-B6D5-4cf2-A3B0-693CF5AE2B89}");
+tocTab[tocTab.length] = new Array("0.1.4.5:6", "", "«boundary» MenuKelolaKerjaBakti", "EARoot/EA1/EA4/EA5/EA1602.html", "8C9E6706-8_boundary.png", "E2154", "0", "", "Sequence0","{16782458-581A-411a-85ED-F1DC050FBA34}");
+tocTab[tocTab.length] = new Array("0.1.4.5:7", "", "«boundary» MenuUtama", "EARoot/EA1/EA4/EA5/EA1603.html", "8C9E6706-8_boundary.png", "E2153", "0", "", "Sequence0","{75D9AE09-EB91-4f15-B1EE-119430A54C6C}");
+tocTab[tocTab.length] = new Array("0.1.4.5:8", "", "Pilihan?", "EARoot/EA1/EA4/EA5/EA1604.html", "101.png", "E2158", "0", "", "InteractionFragment0","{91B41037-1E2D-4bc5-85B9-7978EEBCB46B}");

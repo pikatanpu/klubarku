@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.1.3.2:1", "", "Melihat Daftar Kegiatan Rapat", "EARoot/EA1/EA3/EA2/EA991.html", "188.png", "114", "0", "", "Custom diagram0","{12E9B76C-10B0-4133-9231-E98318FA6487}");
+tocTab[tocTab.length] = new Array("0.1.3.2:2", "", "Memilih Kegiatan di Menu Utama", "EARoot/EA1/EA3/EA2/EA993.html", "188.png", "113", "0", "", "Custom diagram0","{5B4BB059-8E71-4fdc-9FBC-10631C673CFC}");
+tocTab[tocTab.length] = new Array("0.1.3.2:3", "", "«WireframeAndroidPhone» Android Verison", "EARoot/EA1/EA3/EA2/EA996.html", "11.png", "E1628", "0", "", "Screen0","{74242514-16E0-4592-9C8E-FAC1484476CF}");
+tocTab[tocTab.length] = new Array("0.1.3.2:4", "", "«WireframeAndroidPhone» Android Verison", "EARoot/EA1/EA3/EA2/EA997.html", "11.png", "E1639", "0", "", "Screen0","{A5482B1C-F6FA-4589-98E8-0D752BCD9F32}");
+tocTab[tocTab.length] = new Array("0.1.3.2:5", "", "«text» Kegiatan Ramadhan", "EARoot/EA1/EA3/EA2/EA1000.html", "16.png", "E1632", "E1628", "", "GUIElement0","{2F73B3A9-C810-475c-AA0D-DCBE99206DD8}");
+tocTab[tocTab.length] = new Array("0.1.3.2:6", "", "«text» Kerja Bakti", "EARoot/EA1/EA3/EA2/EA1001.html", "16.png", "E1634", "E1628", "", "GUIElement0","{64535FD8-22A0-4ed4-97BB-B9977217AD15}");
+tocTab[tocTab.length] = new Array("0.1.3.2:7", "", "«text» Layanan Kesehatan", "EARoot/EA1/EA3/EA2/EA1002.html", "16.png", "E1635", "E1628", "", "GUIElement0","{57FECE50-9691-4121-83B2-6BEF199C68F6}");
+tocTab[tocTab.length] = new Array("0.1.3.2:8", "", "«text» Lomba 17 Agustus", "EARoot/EA1/EA3/EA2/EA1003.html", "16.png", "E1633", "E1628", "", "GUIElement0","{A036EFEB-308B-4bce-AFC8-F78E9B152F77}");
+tocTab[tocTab.length] = new Array("0.1.3.2:9", "", "«text» Pengajian", "EARoot/EA1/EA3/EA2/EA1004.html", "16.png", "E1636", "E1628", "", "GUIElement0","{5B5570AC-17A4-49e3-BD5D-DC6766042357}");
+tocTab[tocTab.length] = new Array("0.1.3.2:10", "", "«text» Rapat", "EARoot/EA1/EA3/EA2/EA1005.html", "16.png", "E1637", "E1628", "", "GUIElement0","{438C3E40-0F5B-4139-B555-CDB2CBF9E5B6}");
+tocTab[tocTab.length] = new Array("0.1.3.2:11", "", "«WireframeImage» WireframeImage1", "EARoot/EA1/EA3/EA2/EA1006.html", "16.png", "E1630", "E1628", "", "GUIElement0","{DE302CDF-174D-49ae-9188-6B40EF9346C7}");
+tocTab[tocTab.length] = new Array("0.1.3.2:12", "", "«text» NB. Mohon Tetap Menjaga Protokol Kesehatan", "EARoot/EA1/EA3/EA2/EA1008.html", "16.png", "E1966", "E1639", "", "GUIElement0","{811500B6-16A5-4cff-80B0-0E7C8C0F7EFB}");
+tocTab[tocTab.length] = new Array("0.1.3.2:13", "", "«table» Table1", "EARoot/EA1/EA3/EA2/EA1009.html", "16.png", "E1641", "E1639", "", "GUIElement0","{77496FC1-5ADE-4bbe-BAE7-A38E1001BA6E}");

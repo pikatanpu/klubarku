@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.1.2.1.1:1", "", "1. AD - Melakukan Registrasi", "EARoot/EA1/EA2/EA1/EA1/EA148.html", "181.png", "68", "0", "", "Activity diagram0","{0D1F8426-DB58-4f20-87B0-9479BF75B4BC}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1:2", "", "", "EARoot/EA1/EA2/EA1/EA1/EA151.html", "68.png", "E843", "0", "", "StateNode0","{A6484376-E43B-4b22-8605-DA5BA8F0B5CA}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1:3", "", ":Pengunjung", "EARoot/EA1/EA2/EA1/EA1/EA152.html", "116.png", "E840", "0", "", "ActivityPartition0","{8594AE0B-E5F6-425e-934F-D6DCEC388789}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1:4", "", "KlubarKu", "EARoot/EA1/EA2/EA1/EA1/EA153.html", "116.png", "E841", "0", "", "ActivityPartition0","{58728EBF-F00F-4cf2-A331-216C5A3BC6A1}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1:5", "", "Memilih Daftar di Menu Login", "EARoot/EA1/EA2/EA1/EA1/EA154.html", "104.png", "E844", "0", "", "Action0","{EEFC3AA9-6C42-4489-AC19-6C28432F916E}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1:6", "", "Menambah Data Warga Dusun", "EARoot/EA1/EA2/EA1/EA1/EA155.html", "104.png", "E848", "0", "", "Action0","{C328181E-1666-4d53-9ABB-650B036979F7}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1:7", "", "Menampilkan Menu Registrasi Akun Baru", "EARoot/EA1/EA2/EA1/EA1/EA156.html", "104.png", "E846", "0", "", "Action0","{AC0FD00F-25E2-49c8-A868-D340AAE234B9}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1:8", "", "Mengisi Data Profil Pribadi", "EARoot/EA1/EA2/EA1/EA1/EA157.html", "104.png", "E847", "0", "", "Action0","{21033772-0F60-41a7-AE92-A5815E3C5D79}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1:9", "", "Mengisi Username dan Password Baru", "EARoot/EA1/EA2/EA1/EA1/EA158.html", "104.png", "E845", "0", "", "Action0","{DC0FBE1B-6242-4403-9EE2-8AC7948B8626}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1:10", "", "ActivityInitial", "EARoot/EA1/EA2/EA1/EA1/EA159.html", "68.png", "E842", "E840", "", "StateNode0","{2AAF463E-17EC-4718-9C31-4CBC6F55B85D}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1:11", "", "ActivityFinal", "EARoot/EA1/EA2/EA1/EA1/EA160.html", "69.png", "E849", "E841", "", "StateNode0","{CA71DE9B-8F23-4d75-B999-A9979626E330}");

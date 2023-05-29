@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.4.13:1", "", "3. SD - Mengubah Data Pribadi", "EARoot/EA1/EA4/EA13/EA1672.html", "185.png", "158", "0", "", "Sequence diagram0","{35D71BFE-5684-43dd-B084-DA8F94A00F2D}");
+tocTab[tocTab.length] = new Array("0.1.4.13:2", "", "«control» ManajerPribadi", "EARoot/EA1/EA4/EA13/EA1675.html", "8C9E6706-8_control.png", "E2048", "0", "", "Sequence0","{4238CF29-A6B4-408e-9816-A64F98ABE5EE}");
+tocTab[tocTab.length] = new Array("0.1.4.13:3", "", "«boundary» MenuUbahPribadi", "EARoot/EA1/EA4/EA13/EA1676.html", "8C9E6706-8_boundary.png", "E2047", "0", "", "Sequence0","{EF5D4AAB-E058-45cd-BDE3-DC8C2527DB77}");
+tocTab[tocTab.length] = new Array("0.1.4.13:4", "", "«boundary» MenuUtama", "EARoot/EA1/EA4/EA13/EA1677.html", "8C9E6706-8_boundary.png", "E2046", "0", "", "Sequence0","{759F2560-EE02-4721-9105-E923D25FCA33}");
+tocTab[tocTab.length] = new Array("0.1.4.13:5", "", "Warga Dusun", "EARoot/EA1/EA4/EA13/EA1678.html", "6.png", "E2045", "0", "", "Actor0","{19B5148F-88FB-4f78-962D-4A89E991B90D}");
+tocTab[tocTab.length] = new Array("0.1.4.13:6", "", "«entity» WargaDusun", "EARoot/EA1/EA4/EA13/EA1679.html", "8C9E6706-8_entity.png", "E2049", "0", "", "Sequence0","{074233D4-8AFA-4687-8832-F32850B1FCCB}");

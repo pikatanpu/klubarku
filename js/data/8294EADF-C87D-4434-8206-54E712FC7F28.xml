@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.1.4.4:1", "", "12. SD - Mengelola Daftar Lomba 17 Agustus", "EARoot/EA1/EA4/EA4/EA1584.html", "185.png", "167", "0", "", "Sequence diagram0","{EEEF689A-F3A7-4af7-B277-24F37D7FB77C}");
+tocTab[tocTab.length] = new Array("0.1.4.4:2", "", "Admin", "EARoot/EA1/EA4/EA4/EA1587.html", "6.png", "E2143", "0", "", "Actor0","{60822B96-5265-4a02-B9AE-9A93432C975B}");
+tocTab[tocTab.length] = new Array("0.1.4.4:3", "", "«entity» Lomba", "EARoot/EA1/EA4/EA4/EA1588.html", "8C9E6706-8_entity.png", "E2146", "0", "", "Sequence0","{CB60853A-6563-4874-AB89-59A70C958980}");
+tocTab[tocTab.length] = new Array("0.1.4.4:4", "", "«control» ManajerDaftarLomba", "EARoot/EA1/EA4/EA4/EA1589.html", "8C9E6706-8_control.png", "E2231", "0", "", "Sequence0","{EC013ABD-CF66-4aa1-9D7F-5124C9B4E5CF}");
+tocTab[tocTab.length] = new Array("0.1.4.4:5", "", "«control» ManajerKelolaLombaTerpilih", "EARoot/EA1/EA4/EA4/EA1590.html", "8C9E6706-8_control.png", "E2148", "0", "", "Sequence0","{63DB8427-49DC-49dc-89E1-BF9146F82C2E}");
+tocTab[tocTab.length] = new Array("0.1.4.4:6", "", "«boundary» MenuKelolaLombaTerpilih", "EARoot/EA1/EA4/EA4/EA1591.html", "8C9E6706-8_boundary.png", "E2147", "0", "", "Sequence0","{150FE7E5-AE47-42bb-B128-5017D649EBC5}");
+tocTab[tocTab.length] = new Array("0.1.4.4:7", "", "«boundary» MenuLombaAgustus", "EARoot/EA1/EA4/EA4/EA1592.html", "8C9E6706-8_boundary.png", "E2145", "0", "", "Sequence0","{4FCE6E15-1579-49b4-B262-E812D676C95D}");
+tocTab[tocTab.length] = new Array("0.1.4.4:8", "", "«boundary» MenuUtama", "EARoot/EA1/EA4/EA4/EA1593.html", "8C9E6706-8_boundary.png", "E2144", "0", "", "Sequence0","{09955D6E-91FA-4fc9-AC88-AF020FCAEA63}");
+tocTab[tocTab.length] = new Array("0.1.4.4:9", "", "Pilihan?", "EARoot/EA1/EA4/EA4/EA1594.html", "101.png", "E2149", "0", "", "InteractionFragment0","{B8E4B0BD-9CAB-4b69-B909-BABFE46E9A59}");

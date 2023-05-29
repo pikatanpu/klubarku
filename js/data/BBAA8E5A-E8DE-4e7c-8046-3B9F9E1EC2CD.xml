@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.1.2.2.18:1", "", "8. BPMN - Melihat Daftar Layanan Kesehatan", "EARoot/EA1/EA2/EA2/EA18/EA913.html", "189.png", "105", "0", "", "Analysis diagram0","{14884C47-E463-49fa-AF4E-C813EC332BAB}");
+tocTab[tocTab.length] = new Array("0.1.2.2.18:2", "", "8. Melihat Daftar Layanan Kesehatan", "EARoot/EA1/EA2/EA2/EA18/EA916.html", "116.png", "E1551", "0", "", "ActivityPartition0","{1C1BA3A7-D51B-4eb9-B588-F5832B100ACA}");
+tocTab[tocTab.length] = new Array("0.1.2.2.18:3", "", ":Warga Dusun", "EARoot/EA1/EA2/EA2/EA18/EA917.html", "116.png", "E1543", "0", "", "ActivityPartition0","{2753BB78-434F-4dc3-9734-DA92D76A8091}");
+tocTab[tocTab.length] = new Array("0.1.2.2.18:4", "", "KlubarKu", "EARoot/EA1/EA2/EA2/EA18/EA918.html", "116.png", "E1542", "0", "", "ActivityPartition0","{7F6C17D9-444A-44a0-9595-29907E46059A}");
+tocTab[tocTab.length] = new Array("0.1.2.2.18:5", "", "SisforgaD", "EARoot/EA1/EA2/EA2/EA18/EA919.html", "116.png", "E1549", "0", "", "ActivityPartition0","{964A5F87-6B33-4e06-A40C-311D696B7AF8}");
+tocTab[tocTab.length] = new Array("0.1.2.2.18:6", "", "User Interface Design", "EARoot/EA1/EA2/EA2/EA18/EA920.html", "116.png", "E1550", "0", "", "ActivityPartition0","{F65E4F65-6B89-4527-A245-404854919D17}");
+tocTab[tocTab.length] = new Array("0.1.2.2.18:7", "", "Menampilkan Menu Daftar Layanan Kesehatan", "EARoot/EA1/EA2/EA2/EA18/EA921.html", "104.png", "E1547", "E1542", "", "Action0","{4F6C429E-C045-43b3-8020-59A37A482CB7}");
+tocTab[tocTab.length] = new Array("0.1.2.2.18:8", "", "", "EARoot/EA1/EA2/EA2/EA18/EA922.html", "68.png", "E1544", "E1543", "", "StateNode0","{D584FDD2-A54F-489f-9E70-BD9CCF9218F1}");
+tocTab[tocTab.length] = new Array("0.1.2.2.18:9", "", "", "EARoot/EA1/EA2/EA2/EA18/EA923.html", "69.png", "E1548", "E1543", "", "StateNode0","{ED890C59-9C40-4dd5-BEA2-016FD52DF653}");
+tocTab[tocTab.length] = new Array("0.1.2.2.18:10", "", "Melihat Daftar Kegiatan Layanan Kesehatan", "EARoot/EA1/EA2/EA2/EA18/EA924.html", "104.png", "E1546", "E1543", "", "Action0","{371F372A-CA64-4b24-86B3-368DE9E7954E}");
+tocTab[tocTab.length] = new Array("0.1.2.2.18:11", "", "Memilih Layanan Kesehatan di Menu Utama", "EARoot/EA1/EA2/EA2/EA18/EA925.html", "104.png", "E1545", "E1543", "", "Action0","{4CDC402A-A3F8-4b88-B0B4-F6ADEAF70F81}");

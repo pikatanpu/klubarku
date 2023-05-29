@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.1.4.7:1", "", "15. SD - Mengelola Daftar Pengajian", "EARoot/EA1/EA4/EA7/EA1615.html", "185.png", "171", "0", "", "Sequence diagram0","{3D131A4C-D21D-47f2-9F40-A3A24C5AB263}");
+tocTab[tocTab.length] = new Array("0.1.4.7:2", "", "Admin", "EARoot/EA1/EA4/EA7/EA1618.html", "6.png", "E2212", "0", "", "Actor0","{D36DDA06-6361-4ed6-ADAE-D7F5615F10AC}");
+tocTab[tocTab.length] = new Array("0.1.4.7:3", "", "«control» ManajerKategoriPengajian", "EARoot/EA1/EA4/EA7/EA1619.html", "8C9E6706-8_control.png", "E2238", "0", "", "Sequence0","{7B94A594-074D-4bc8-BB54-7F26E3BFC084}");
+tocTab[tocTab.length] = new Array("0.1.4.7:4", "", "«control» ManajerKelolaPengajian", "EARoot/EA1/EA4/EA7/EA1620.html", "8C9E6706-8_control.png", "E2217", "0", "", "Sequence0","{E8D24BC4-AEB7-4cd6-8DFF-89C738094284}");
+tocTab[tocTab.length] = new Array("0.1.4.7:5", "", "«boundary» MenuKelolaPengajianTerpilih", "EARoot/EA1/EA4/EA7/EA1621.html", "8C9E6706-8_boundary.png", "E2216", "0", "", "Sequence0","{470DDD53-EF2E-421b-A608-83F4DCDBE1C7}");
+tocTab[tocTab.length] = new Array("0.1.4.7:6", "", "«boundary» MenuPengajian", "EARoot/EA1/EA4/EA7/EA1622.html", "8C9E6706-8_boundary.png", "E2214", "0", "", "Sequence0","{A358D1AB-58AF-4cdb-92C2-733FF4EAF06D}");
+tocTab[tocTab.length] = new Array("0.1.4.7:7", "", "«boundary» MenuUtama", "EARoot/EA1/EA4/EA7/EA1623.html", "8C9E6706-8_boundary.png", "E2213", "0", "", "Sequence0","{1CBD6838-CD7D-4c80-BC18-2BAAD358C228}");
+tocTab[tocTab.length] = new Array("0.1.4.7:8", "", "«entity» Pengajian", "EARoot/EA1/EA4/EA7/EA1624.html", "8C9E6706-8_entity.png", "E2215", "0", "", "Sequence0","{8B33535A-A186-46a7-B38E-AA8404E52B79}");
+tocTab[tocTab.length] = new Array("0.1.4.7:9", "", "Pilihan?", "EARoot/EA1/EA4/EA7/EA1625.html", "101.png", "E2219", "0", "", "InteractionFragment0","{14C0C148-64AD-48e0-B9E0-4C835173CA94}");

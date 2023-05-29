@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>1. BPMN - Melakukan Registrasi</title>
+<link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> 1. BPMN - Melakukan Registrasi </h1>
+			<!-- <img class="header_image" src="../../../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../../../../index.html">Model</a> / <a href="../../../EA1.html">KBR One</a> / <a href="../../EA125.html">2. Activity or BPMN</a> / <a href="../EA415.html">BPMN</a> / <a href="EA439.html">1. BPMN - Melakukan Registrasi</a> / <a href="EA437.html">1. BPMN - Melakukan Registrasi</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../../../images/189.png" alt="Diagram"/> <a href="EA437.html">1. BPMN - Melakukan Registrasi</a></li>
+<li><img src="../../../../../images/5.png" alt="Class"/> <a href="EA451.html">List of Elements in Diagram 1. UID - Melakukan Registrasi</a></li>
+<li><img src="../../../../../images/16.png" alt="GUIElement"/> <a href="EA450.html">Button1</a></li>
+<li><img src="../../../../../images/21.png" alt="Activity"/> <a href="EA449.html">BusinessProcess1</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA448.html">:Pengunjung</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA444.html">1. Melakukan Registrasi</a></li>
+<li><img src="../../../../../images/99.png" alt="UMLDiagram"/> <a href="EA445.html">1. UID - Melakukan Registrasi</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA452.html">Pool1</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA453.html">Pool2</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA454.html">SisforgaD</a></li>
+<li><img src="../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA455.html">4. Melihat Daftar Lagu</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA438.png" usemap="#EA438" border="0" />
+
+<MAP NAME="EA438">
+<area shape="rect" coords="125,10,263,93" href="../../../EA3/EA1/EA964.html" target="_self">
+<area shape="rect" coords="430,178,541,242" href="../../EA1/EA1/EA155.html" target="_self">
+<area shape="rect" coords="431,312,542,376" href="../../EA1/EA1/EA157.html" target="_self">
+<area shape="rect" coords="138,178,249,242" href="../../EA1/EA1/EA156.html" target="_self">
+<area shape="rect" coords="279,312,390,376" href="../../EA1/EA1/EA158.html" target="_self">
+<area shape="rect" coords="137,312,248,376" href="../../EA1/EA1/EA154.html" target="_self">
+<area shape="rect" coords="74,329,104,359" href="../../EA1/EA1/EA151.html" target="_self">
+<area shape="rect" coords="10,149,622,410" href="EA444.html" target="_self">
+<area shape="rect" coords="31,268,622,410" href="../../EA1/EA1/EA152.html" target="_self">
+<area shape="rect" coords="31,149,622,268" href="../../EA1/EA1/EA153.html" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">1. BPMN - Melakukan Registrasi : Business Process diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">6/30/2022 10:08:09 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">9/29/2022 12:21:07 AM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">BRAINMATICS</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{F8CF0999-FDFB-4b44-B90B-1BBEB5AF64B1}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

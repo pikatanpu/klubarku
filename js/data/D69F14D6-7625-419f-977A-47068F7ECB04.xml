@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.1.4.16:1", "", "6. SD - Mendaftar Lomba 17 Agustus", "EARoot/EA1/EA4/EA16/EA1702.html", "185.png", "161", "0", "", "Sequence diagram0","{6C8E08EA-11C0-4662-B63D-B93BC9216349}");
+tocTab[tocTab.length] = new Array("0.1.4.16:2", "", "«entity» Lomba", "EARoot/EA1/EA4/EA16/EA1705.html", "8C9E6706-8_entity.png", "E2087", "0", "", "Sequence0","{C9372A67-0FE0-4be8-98B2-CDAA139643CA}");
+tocTab[tocTab.length] = new Array("0.1.4.16:3", "", "«control» ManajerDaftarLomba", "EARoot/EA1/EA4/EA16/EA1706.html", "8C9E6706-8_control.png", "E2232", "0", "", "Sequence0","{6125EB9D-F4FC-46d0-93BD-9B3589DDB64F}");
+tocTab[tocTab.length] = new Array("0.1.4.16:4", "", "«control» ManajerKategoriLomba", "EARoot/EA1/EA4/EA16/EA1707.html", "8C9E6706-8_control.png", "E2089", "0", "", "Sequence0","{FAFEF636-3B26-4627-8927-991AE69FF7D3}");
+tocTab[tocTab.length] = new Array("0.1.4.16:5", "", "«control» ManajerValidasiIkutLomba", "EARoot/EA1/EA4/EA16/EA1708.html", "8C9E6706-8_control.png", "E2090", "0", "", "Sequence0","{CF61F648-2201-4a18-8805-8CF0816FA748}");
+tocTab[tocTab.length] = new Array("0.1.4.16:6", "", "«boundary» MenuLombaAgustus", "EARoot/EA1/EA4/EA16/EA1709.html", "8C9E6706-8_boundary.png", "E2086", "0", "", "Sequence0","{AE483546-BC79-48a0-9283-25DA3C4F86CF}");
+tocTab[tocTab.length] = new Array("0.1.4.16:7", "", "«boundary» MenuLombaTerpilih", "EARoot/EA1/EA4/EA16/EA1710.html", "8C9E6706-8_boundary.png", "E2088", "0", "", "Sequence0","{C676B24E-E228-45e7-8E97-5E5F570D5243}");
+tocTab[tocTab.length] = new Array("0.1.4.16:8", "", "«boundary» MenuUtama", "EARoot/EA1/EA4/EA16/EA1711.html", "8C9E6706-8_boundary.png", "E2085", "0", "", "Sequence0","{F8ECE139-8F05-4b9f-899D-6153BE0A12C0}");
+tocTab[tocTab.length] = new Array("0.1.4.16:9", "", "«entity» PesertaTerdaftar", "EARoot/EA1/EA4/EA16/EA1712.html", "8C9E6706-8_entity.png", "E2092", "0", "", "Sequence0","{334A04B0-F6A5-447c-9C8C-926FC7C1C4F8}");
+tocTab[tocTab.length] = new Array("0.1.4.16:10", "", "Umur Memenuhi Syarat?", "EARoot/EA1/EA4/EA16/EA1713.html", "101.png", "E2091", "0", "", "InteractionFragment0","{115B6640-7B2B-40e5-8886-A4C0E506E352}");
+tocTab[tocTab.length] = new Array("0.1.4.16:11", "", "Warga Dusun", "EARoot/EA1/EA4/EA16/EA1714.html", "6.png", "E2084", "0", "", "Actor0","{807E198C-5BB2-46b6-8CC4-43606CA21B97}");

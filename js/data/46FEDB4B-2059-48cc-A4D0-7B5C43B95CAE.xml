@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.1.2.1.7:1", "", "15. AD - Mengelola Daftar Pengajian", "EARoot/EA1/EA2/EA1/EA7/EA231.html", "181.png", "82", "0", "", "Activity diagram0","{F2BA9F8A-34AE-4e3c-8ADD-E2224F69E4CE}");
+tocTab[tocTab.length] = new Array("0.1.2.1.7:2", "", ":Admin", "EARoot/EA1/EA2/EA1/EA7/EA234.html", "116.png", "E1032", "0", "", "ActivityPartition0","{8FF4584A-3E4C-402b-A1EC-86AB0DA72E41}");
+tocTab[tocTab.length] = new Array("0.1.2.1.7:3", "", "KlubarKu", "EARoot/EA1/EA2/EA1/EA7/EA235.html", "116.png", "E1031", "0", "", "ActivityPartition0","{673EF203-9DB0-413e-BB0A-8E84081CB5D7}");
+tocTab[tocTab.length] = new Array("0.1.2.1.7:4", "", "Menampilkan Kategori Pengajian Yang Dipilih", "EARoot/EA1/EA2/EA1/EA7/EA236.html", "104.png", "E1038", "E1031", "", "Action0","{99D54417-CC0D-4edd-BEA5-1588629AB87F}");
+tocTab[tocTab.length] = new Array("0.1.2.1.7:5", "", "Menampilkan Menu Kategori Pengajian", "EARoot/EA1/EA2/EA1/EA7/EA237.html", "104.png", "E1036", "E1031", "", "Action0","{2091819C-0790-4230-ACA3-D79DDB194631}");
+tocTab[tocTab.length] = new Array("0.1.2.1.7:6", "", "", "EARoot/EA1/EA2/EA1/EA7/EA238.html", "68.png", "E1033", "E1032", "", "StateNode0","{C49BBB59-987A-4b12-89EE-9483E07058C5}");
+tocTab[tocTab.length] = new Array("0.1.2.1.7:7", "", "", "EARoot/EA1/EA2/EA1/EA7/EA239.html", "69.png", "E1040", "E1032", "", "StateNode0","{7FE10D2A-D000-477e-81E7-1E804FAD3440}");
+tocTab[tocTab.length] = new Array("0.1.2.1.7:8", "", "Melihat Kategori Pengajian", "EARoot/EA1/EA2/EA1/EA7/EA240.html", "104.png", "E1035", "E1032", "", "Action0","{F0574245-4410-42e8-84B1-842A9790F9E7}");
+tocTab[tocTab.length] = new Array("0.1.2.1.7:9", "", "Memilih Kategori Pengajian", "EARoot/EA1/EA2/EA1/EA7/EA241.html", "104.png", "E1037", "E1032", "", "Action0","{2E29A646-50A3-420b-9385-B8526CC9DC64}");
+tocTab[tocTab.length] = new Array("0.1.2.1.7:10", "", "Memilih Mengelola Pengajian di Menu Utama", "EARoot/EA1/EA2/EA1/EA7/EA242.html", "104.png", "E1034", "E1032", "", "Action0","{7B3331FA-0AD9-4a14-8DA2-0B316EA0CEA6}");
+tocTab[tocTab.length] = new Array("0.1.2.1.7:11", "", "Mengelola Jadwal Pengajian Berdasarkan Kategori Yang Dipilih", "EARoot/EA1/EA2/EA1/EA7/EA243.html", "104.png", "E1039", "E1032", "", "Action0","{23A5EF68-6788-46c2-BD0E-01ACDC162BCD}");

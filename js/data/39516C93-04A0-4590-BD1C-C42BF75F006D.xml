@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.1.2.1.5:1", "", "13. AD - Mengelola Daftar Kegiatan Kerja Bakti", "EARoot/EA1/EA2/EA1/EA5/EA211.html", "181.png", "80", "0", "", "Activity diagram0","{A840AB7D-0097-44ba-9D95-277074C00C4C}");
+tocTab[tocTab.length] = new Array("0.1.2.1.5:2", "", ":Admin", "EARoot/EA1/EA2/EA1/EA5/EA214.html", "116.png", "E1016", "0", "", "ActivityPartition0","{E1707452-690E-4774-AC67-3A724E5AAAC6}");
+tocTab[tocTab.length] = new Array("0.1.2.1.5:3", "", "KlubarKu", "EARoot/EA1/EA2/EA1/EA5/EA215.html", "116.png", "E1015", "0", "", "ActivityPartition0","{7CB994F2-34C3-45c9-9C67-A81CB37001E2}");
+tocTab[tocTab.length] = new Array("0.1.2.1.5:4", "", "Menampilkan Menu Daftar Kegiatan Kerja Bakti", "EARoot/EA1/EA2/EA1/EA5/EA216.html", "104.png", "E1020", "E1015", "", "Action0","{9E310202-88E5-4ab5-AB48-7BF8D9EE8FB8}");
+tocTab[tocTab.length] = new Array("0.1.2.1.5:5", "", "", "EARoot/EA1/EA2/EA1/EA5/EA217.html", "68.png", "E1017", "E1016", "", "StateNode0","{28CE34AF-9129-4116-BDAF-D502F48154E3}");
+tocTab[tocTab.length] = new Array("0.1.2.1.5:6", "", "", "EARoot/EA1/EA2/EA1/EA5/EA218.html", "69.png", "E1021", "E1016", "", "StateNode0","{783A00AF-4D34-4998-9489-8548B142E77C}");
+tocTab[tocTab.length] = new Array("0.1.2.1.5:7", "", "Memilih Mengelola Kegiatan Kerja Bakti di Menu Utama", "EARoot/EA1/EA2/EA1/EA5/EA219.html", "104.png", "E1018", "E1016", "", "Action0","{6C2D4A99-1D8B-46a6-9317-F77CA6B5D9E8}");
+tocTab[tocTab.length] = new Array("0.1.2.1.5:8", "", "Mengelola Daftar Kegiatan Kerja Bakti", "EARoot/EA1/EA2/EA1/EA5/EA220.html", "104.png", "E1019", "E1016", "", "Action0","{CA10F7F2-92FA-4318-98A2-63C783ADA333}");

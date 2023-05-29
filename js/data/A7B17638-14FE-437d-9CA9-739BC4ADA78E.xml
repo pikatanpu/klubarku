@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.4.10:1", "", "18. SD - Melihat Daftar Sisa Makan", "EARoot/EA1/EA4/EA10/EA1644.html", "185.png", "185", "0", "", "Sequence diagram0","{C8D2348F-3A3E-483f-AFBC-764315FF27B6}");
+tocTab[tocTab.length] = new Array("0.1.4.10:2", "", "«entity» Makanan", "EARoot/EA1/EA4/EA10/EA1647.html", "8C9E6706-8_entity.png", "E2465", "0", "", "Sequence0","{2C9EA82D-AD5B-4799-9F20-43D256098F45}");
+tocTab[tocTab.length] = new Array("0.1.4.10:3", "", "«control» ManajerDaftarMakanan", "EARoot/EA1/EA4/EA10/EA1648.html", "8C9E6706-8_control.png", "E2466", "0", "", "Sequence0","{E48DEB74-AB0E-49b4-B662-95C4EBF18277}");
+tocTab[tocTab.length] = new Array("0.1.4.10:4", "", "«boundary» MenuDaftarMakanan", "EARoot/EA1/EA4/EA10/EA1649.html", "8C9E6706-8_boundary.png", "E2464", "0", "", "Sequence0","{1F7EE2C2-463E-4fa3-A5E7-0632A4627020}");
+tocTab[tocTab.length] = new Array("0.1.4.10:5", "", "«boundary» MenuUtama", "EARoot/EA1/EA4/EA10/EA1650.html", "8C9E6706-8_boundary.png", "E2463", "0", "", "Sequence0","{5E9EADBF-587C-481f-AF2D-1562A461CBB6}");
+tocTab[tocTab.length] = new Array("0.1.4.10:6", "", "Warga Dusun", "EARoot/EA1/EA4/EA10/EA1651.html", "6.png", "E2462", "0", "", "Actor0","{4EB3321A-06BA-4870-B330-E60474C529CF}");

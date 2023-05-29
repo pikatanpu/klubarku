@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.4.18:1", "", "8. SD - Melihat Daftar Layanan Kesehatan", "EARoot/EA1/EA4/EA18/EA1726.html", "185.png", "163", "0", "", "Sequence diagram0","{7238D5B7-C725-4ce6-AB21-8D0747249782}");
+tocTab[tocTab.length] = new Array("0.1.4.18:2", "", "«entity» LayananKesehatan", "EARoot/EA1/EA4/EA18/EA1729.html", "8C9E6706-8_entity.png", "E2106", "0", "", "Sequence0","{5B62EBF3-81D8-484b-BF30-2196A9275483}");
+tocTab[tocTab.length] = new Array("0.1.4.18:3", "", "«control» ManajerLayananKesehatan", "EARoot/EA1/EA4/EA18/EA1730.html", "8C9E6706-8_control.png", "E2235", "0", "", "Sequence0","{043F1893-4F1B-4a4f-B1B8-B968E81F30D5}");
+tocTab[tocTab.length] = new Array("0.1.4.18:4", "", "«boundary» MenuLayananKesehatan", "EARoot/EA1/EA4/EA18/EA1731.html", "8C9E6706-8_boundary.png", "E2105", "0", "", "Sequence0","{B696B72E-E896-4194-9A53-2403277682B6}");
+tocTab[tocTab.length] = new Array("0.1.4.18:5", "", "«boundary» MenuUtama", "EARoot/EA1/EA4/EA18/EA1732.html", "8C9E6706-8_boundary.png", "E2104", "0", "", "Sequence0","{7D6C9520-F63D-4472-A727-380861E908F3}");
+tocTab[tocTab.length] = new Array("0.1.4.18:6", "", "Warga Dusun", "EARoot/EA1/EA4/EA18/EA1733.html", "6.png", "E2103", "0", "", "Actor0","{51A9D88D-C798-41b3-B917-C1CE3541D812}");

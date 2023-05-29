@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.1.4.19:1", "", "9. SD - Melihat Daftar Pengajian", "EARoot/EA1/EA4/EA19/EA1734.html", "185.png", "164", "0", "", "Sequence diagram0","{C181B058-D4C5-44aa-81AE-3916F849121A}");
+tocTab[tocTab.length] = new Array("0.1.4.19:2", "", "«control» ManajerKategoriPengajian", "EARoot/EA1/EA4/EA19/EA1737.html", "8C9E6706-8_control.png", "E2237", "0", "", "Sequence0","{06EC093E-815D-4046-8787-E91224A010A7}");
+tocTab[tocTab.length] = new Array("0.1.4.19:3", "", "«boundary» MenuPengajian", "EARoot/EA1/EA4/EA19/EA1738.html", "8C9E6706-8_boundary.png", "E2112", "0", "", "Sequence0","{416C9661-89AE-40b2-9C80-9CFD7274376D}");
+tocTab[tocTab.length] = new Array("0.1.4.19:4", "", "«boundary» MenuPengajianTerpilih", "EARoot/EA1/EA4/EA19/EA1739.html", "8C9E6706-8_boundary.png", "E2114", "0", "", "Sequence0","{56372B9C-30AF-4dc1-AABA-39BDA3FB38E3}");
+tocTab[tocTab.length] = new Array("0.1.4.19:5", "", "«boundary» MenuUtama", "EARoot/EA1/EA4/EA19/EA1740.html", "8C9E6706-8_boundary.png", "E2111", "0", "", "Sequence0","{25AA442A-3D16-4961-959C-2C21A2DE8C8C}");
+tocTab[tocTab.length] = new Array("0.1.4.19:6", "", "«entity» Pengajian", "EARoot/EA1/EA4/EA19/EA1741.html", "8C9E6706-8_entity.png", "E2113", "0", "", "Sequence0","{014E027B-8EA5-45f0-B042-81A37C7C82BE}");
+tocTab[tocTab.length] = new Array("0.1.4.19:7", "", "Warga Dusun", "EARoot/EA1/EA4/EA19/EA1742.html", "6.png", "E2110", "0", "", "Actor0","{8178C9EB-F8C2-4f2e-AFCD-986C45D55CAD}");

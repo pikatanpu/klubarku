@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.1.4.15:1", "", "5. SD - Melihat Daftar Lomba 17 Agustus", "EARoot/EA1/EA4/EA15/EA1690.html", "185.png", "160", "0", "", "Sequence diagram0","{55DCFA38-259B-474a-83D4-A9E5B78D2190}");
+tocTab[tocTab.length] = new Array("0.1.4.15:2", "", "«control» Control1", "EARoot/EA1/EA4/EA15/EA1693.html", "8C9E6706-8_control.png", "E2065", "0", "", "Sequence0","{EFAADB4F-1F96-4780-B46A-1205C296C58E}");
+tocTab[tocTab.length] = new Array("0.1.4.15:3", "", "«control» Control2", "EARoot/EA1/EA4/EA15/EA1694.html", "8C9E6706-8_control.png", "E2068", "0", "", "Sequence0","{8CE38410-422E-4ff6-B90B-AF731F10186F}");
+tocTab[tocTab.length] = new Array("0.1.4.15:4", "", "«entity» Lomba", "EARoot/EA1/EA4/EA15/EA1695.html", "8C9E6706-8_entity.png", "E2066", "0", "", "Sequence0","{8065CD03-5B26-48dc-9851-0357F099571B}");
+tocTab[tocTab.length] = new Array("0.1.4.15:5", "", "«control» ManajerDaftarLomba", "EARoot/EA1/EA4/EA15/EA1696.html", "8C9E6706-8_control.png", "E2230", "0", "", "Sequence0","{7AC81750-9E7D-418a-B11E-D07BA17BEDE2}");
+tocTab[tocTab.length] = new Array("0.1.4.15:6", "", "«control» ManajerJenisLomba", "EARoot/EA1/EA4/EA15/EA1697.html", "8C9E6706-8_control.png", "E2069", "0", "", "Sequence0","{2C4C04B3-1686-47e9-BDC4-B6B3D82AF34A}");
+tocTab[tocTab.length] = new Array("0.1.4.15:7", "", "«boundary» MenuLombaAgustus", "EARoot/EA1/EA4/EA15/EA1698.html", "8C9E6706-8_boundary.png", "E2064", "0", "", "Sequence0","{F79C8E94-315A-449f-885D-46B2FD6BD7C8}");
+tocTab[tocTab.length] = new Array("0.1.4.15:8", "", "«boundary» MenuLombaTerpilih", "EARoot/EA1/EA4/EA15/EA1699.html", "8C9E6706-8_boundary.png", "E2067", "0", "", "Sequence0","{3E72A8F9-824B-4a29-A604-FAD53EBD7FB7}");
+tocTab[tocTab.length] = new Array("0.1.4.15:9", "", "«boundary» MenuUtama", "EARoot/EA1/EA4/EA15/EA1700.html", "8C9E6706-8_boundary.png", "E2063", "0", "", "Sequence0","{91BA6376-D854-4374-8EC2-04770BEE1AD2}");
+tocTab[tocTab.length] = new Array("0.1.4.15:10", "", "Warga Dusun", "EARoot/EA1/EA4/EA15/EA1701.html", "6.png", "E2062", "0", "", "Actor0","{2D1519AD-029B-4f0a-9EB3-A1FFDCCA77F6}");

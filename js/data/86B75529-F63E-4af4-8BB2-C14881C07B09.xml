@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.1.2.2.19:1", "", "9. BPMN - Melihat Daftar Pengajian", "EARoot/EA1/EA2/EA2/EA19/EA928.html", "189.png", "108", "0", "", "Analysis diagram0","{791A9218-92AD-4b84-A7E3-86AA7F4B56B1}");
+tocTab[tocTab.length] = new Array("0.1.2.2.19:2", "", "9. Melihat Daftar Pengajian", "EARoot/EA1/EA2/EA2/EA19/EA931.html", "116.png", "E1582", "0", "", "ActivityPartition0","{30218FDB-F7C5-4437-91B7-F594A58705DB}");
+tocTab[tocTab.length] = new Array("0.1.2.2.19:3", "", "SisforgaD", "EARoot/EA1/EA2/EA2/EA19/EA932.html", "116.png", "E1580", "0", "", "ActivityPartition0","{55E363AB-D713-402c-9970-24112C2F6A0E}");
+tocTab[tocTab.length] = new Array("0.1.2.2.19:4", "", "User Interface Design", "EARoot/EA1/EA2/EA2/EA19/EA933.html", "116.png", "E1581", "0", "", "ActivityPartition0","{666EB3E2-0C64-4547-B487-986706B67171}");
+tocTab[tocTab.length] = new Array("0.1.2.2.19:13", "", ":Warga Dusun", "EARoot/EA1/EA2/EA2/EA19/EA945.html", "116.png", "E1571", "E1582", "", "ActivityPartition0","{5916E9D0-9044-4850-961A-AD3578F729CD}");
+tocTab[tocTab.length] = new Array("0.1.2.2.19:14", "", "KlubarKu", "EARoot/EA1/EA2/EA2/EA19/EA946.html", "116.png", "E1570", "E1582", "", "ActivityPartition0","{B6E00B60-D724-428a-A3FA-257198D1B2AB}");
+tocTab[tocTab.length] = new Array("0.1.2.2.19:5", "", "Menampilkan Kategori Pengajian Yang Dipilih", "EARoot/EA1/EA2/EA2/EA19/EA934.html", "104.png", "E1577", "E1570", "", "Action0","{B3D5D193-B97E-4a86-9C2B-297330AED118}");
+tocTab[tocTab.length] = new Array("0.1.2.2.19:6", "", "Menampilkan Menu Kategori Pengajian", "EARoot/EA1/EA2/EA2/EA19/EA935.html", "104.png", "E1575", "E1570", "", "Action0","{0ED335B4-2AFE-44ed-BC3E-78D636BE476E}");
+tocTab[tocTab.length] = new Array("0.1.2.2.19:7", "", "", "EARoot/EA1/EA2/EA2/EA19/EA936.html", "68.png", "E1572", "E1571", "", "StateNode0","{551C79F1-88C7-45c8-BD5E-DA6BFFBE3443}");
+tocTab[tocTab.length] = new Array("0.1.2.2.19:8", "", "", "EARoot/EA1/EA2/EA2/EA19/EA937.html", "69.png", "E1579", "E1571", "", "StateNode0","{2539883F-4097-492a-A9D8-02B93D65E6DC}");
+tocTab[tocTab.length] = new Array("0.1.2.2.19:9", "", "Melihat Jadwal Pengajian Berdasarkan Kategori Yang Dipilih", "EARoot/EA1/EA2/EA2/EA19/EA938.html", "104.png", "E1578", "E1571", "", "Action0","{274D88F3-9B75-4b1c-8390-BDEAF014DEFB}");
+tocTab[tocTab.length] = new Array("0.1.2.2.19:10", "", "Melihat Kategori Pengajian", "EARoot/EA1/EA2/EA2/EA19/EA939.html", "104.png", "E1574", "E1571", "", "Action0","{7828F54B-9B8C-43d8-A683-19EA75C9F332}");
+tocTab[tocTab.length] = new Array("0.1.2.2.19:11", "", "Memilih Kategori Pengajian", "EARoot/EA1/EA2/EA2/EA19/EA940.html", "104.png", "E1576", "E1571", "", "Action0","{27A65A2E-3534-4e3a-BB18-BEA9FA5BD25A}");
+tocTab[tocTab.length] = new Array("0.1.2.2.19:12", "", "Memilih Pengajian di Menu Utama", "EARoot/EA1/EA2/EA2/EA19/EA941.html", "104.png", "E1573", "E1571", "", "Action0","{2BB0219C-C191-4271-B31A-65E1846EF40A}");
