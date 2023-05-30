@@ -5,16 +5,13 @@
  * @version 1.0
  * @created 23-Oct-2022 12:12:50 PM
  */
-public class MenuLogin extends KBR One {
+public class MenuDaftar extends Klubarku {
 
-	public MenuUtama m_MenuUtama;
-	public ManajerValidasi m_ManajerValidasi;
-
-	public MenuLogin(){
+	public MenuDaftar(){
 
 	}
 
 	public void finalize() throws Throwable {
 		super.finalize();
 	}
-}//end MenuLogin
+}//end MenuDaftar
