@@ -9,4 +9,4 @@ tocTab[tocTab.length] = new Array("0.1.2.2.11:6", "", "", "EARoot/EA1/EA2/EA2/EA
 tocTab[tocTab.length] = new Array("0.1.2.2.11:7", "", "", "EARoot/EA1/EA2/EA2/EA11/EA720.html", "69.png", "E2491", "E2481", "", "StateNode0","{3DA39578-F476-4393-AF28-B4F2CBD73790}");
 tocTab[tocTab.length] = new Array("0.1.2.2.11:8", "", "Melihat Daftar Makanan", "EARoot/EA1/EA2/EA2/EA11/EA721.html", "104.png", "E2484", "E2481", "", "Action0","{1DD600C4-C329-4d89-8BD7-3DB414055ABB}");
 tocTab[tocTab.length] = new Array("0.1.2.2.11:9", "", "Memilih Daftar Makanan di Menu Utama", "EARoot/EA1/EA2/EA2/EA11/EA722.html", "104.png", "E2483", "E2481", "", "Action0","{58E3C7FB-F93E-4bea-AA95-45B73857AE0E}");
-tocTab[tocTab.length] = new Array("0.1.2.2.11:10", "", "Meminta Makanan", "EARoot/EA1/EA2/EA2/EA11/EA723.html", "104.png", "E2490", "E2481", "", "Action0","{75AABD21-7EE4-4ed4-86E7-529BDB03B834}");
+tocTab[tocTab.length] = new Array("0.1.2.2.11:10", "", "Mengambil Makanan", "EARoot/EA1/EA2/EA2/EA11/EA723.html", "104.png", "E2490", "E2481", "", "Action0","{75AABD21-7EE4-4ed4-86E7-529BDB03B834}");

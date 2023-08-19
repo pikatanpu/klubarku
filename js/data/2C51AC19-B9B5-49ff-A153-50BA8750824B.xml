@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("0.1.4.11:1", "", "19. SD- Meminta Makanan", "EARoot/EA1/EA4/EA11/EA1652.html", "185.png", "189", "0", "", "Sequence diagram0","{4F37759C-721A-456d-A119-1F27BA6E9280}");
+tocTab[tocTab.length] = new Array("0.1.4.11:1", "", "19. SD- Mengambil Makanan", "EARoot/EA1/EA4/EA11/EA1652.html", "185.png", "189", "0", "", "Sequence diagram0","{4F37759C-721A-456d-A119-1F27BA6E9280}");
 tocTab[tocTab.length] = new Array("0.1.4.11:2", "", "«entity» Makanan", "EARoot/EA1/EA4/EA11/EA1655.html", "8C9E6706-8_entity.png", "E2498", "0", "", "Sequence0","{DBE57AD6-EA87-4e45-A9B3-731BA0B49227}");
 tocTab[tocTab.length] = new Array("0.1.4.11:3", "", "«control» ManajerDaftarMakanan", "EARoot/EA1/EA4/EA11/EA1656.html", "8C9E6706-8_control.png", "E2499", "0", "", "Sequence0","{3700768E-E07B-4962-AB0D-986E79D2B4ED}");
 tocTab[tocTab.length] = new Array("0.1.4.11:4", "", "«boundary» MenuDaftarMakanan", "EARoot/EA1/EA4/EA11/EA1657.html", "8C9E6706-8_boundary.png", "E2497", "0", "", "Sequence0","{168E82C3-C476-4af4-A040-73970495EEA3}");
